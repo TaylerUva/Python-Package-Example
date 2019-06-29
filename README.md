@@ -6,7 +6,9 @@
 ## Offline Install
 
 Clone or download the repository
-In the root directory ```uva_libs' run``` ```pip install .```
+In the root directory ```uva_libs``` 
+
+Run ```pip install .```
 
 
 
