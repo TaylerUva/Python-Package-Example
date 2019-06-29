@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="uva_libs",
-    version="1.0.0w",
+    version="1.0.1w",
     author="Tayler Uva",
     author_email="",
     description="A file wrapper",
