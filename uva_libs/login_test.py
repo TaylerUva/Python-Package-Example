@@ -1,6 +1,5 @@
 import keyring
 import getpass
-from keyring import credentials
 
 
 def get_password(service):
