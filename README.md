@@ -1,12 +1,12 @@
 # Python-Package-Example
 
 ## Online Install
-pip install git+https://github.com/TaylerUva/Python-Package-Example.git
+```pip install git+https://github.com/TaylerUva/Python-Package-Example.git```
 
 ## Offline Install
 
 Clone or download the repository
-In the root directory 'uva_libs' run 'pip install .'
+In the root directory ```uva_libs' run``` ```pip install .```
 
 
 
