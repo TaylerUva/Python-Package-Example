@@ -5,10 +5,11 @@
 
 ## Offline Install
 
-Clone or download the repository
-In the root directory ```uva_libs``` 
+1. Clone or download the repository
 
-Run ```pip install .```
+2. Access the root directory: ```uva_libs``` 
+
+3. Run ```pip install .```
 
 
 
