@@ -1,18 +1,18 @@
 # Python-Package-Example
 
 ## Online Install
+
 ```pip install git+https://github.com/TaylerUva/Python-Package-Example.git```
 
 ## Offline Install
 
 1. Clone or download the repository
 
-2. Access the root directory: ```uva_libs``` 
+2. Access the root directory: ```uva_libs```
 
 3. Run ```pip install .```
 
-
-## References:
+## References
 
 <https://stackoverflow.com/questions/16425434/how-to-create-a-python-package-with-multiple-files-without-subpackages>
 
